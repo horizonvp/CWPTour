@@ -1,3 +1,14 @@
+# Horizon Additions
+IOS_Backups
+Scripts/.idea/*
+!Saved/SaveGames/
+.vscode
+*.opendb
+*.ipch
+*.log
+*.pyc
+Saved/SaveGames/SignIn.sav
+
 # Visual Studio 2015 user specific files
 .vs/
 
@@ -72,3 +83,4 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+FloorSystem_Renders/

@@ -24,6 +24,26 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "GameFeatures",
+			"Enabled": true
+		},
+		{
+			"Name": "ModularGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "HVPAppController",
+			"Enabled": true
+		},
+		{
+			"Name": "HVPTableaus",
+			"Enabled": true
+		},
+		{
+			"Name": "CWPierTour",
+			"Enabled": true
 		}
 	]
 }

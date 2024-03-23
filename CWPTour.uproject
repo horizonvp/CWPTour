@@ -26,24 +26,13 @@
 			]
 		},
 		{
-			"Name": "GameFeatures",
-			"Enabled": true
-		},
-		{
-			"Name": "ModularGameplay",
-			"Enabled": true
-		},
-		{
 			"Name": "HVPAppController",
-			"Enabled": true
+			"Enabled": false
 		},
 		{
-			"Name": "HVPTableaus",
-			"Enabled": true
-		},
-		{
-			"Name": "CWPierTour",
-			"Enabled": true
+			"Name": "JsonCsvToDataTableToStruct",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e2cfedae1a22428a8016768471ca23ca"
 		}
 	]
 }

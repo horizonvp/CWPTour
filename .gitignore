@@ -84,3 +84,6 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 FloorSystem_Renders/
+
+# Include Plugin DLLs
+!Plugins/*/Binaries/Win64/*.dll

@@ -9,6 +9,11 @@ Scripts/.idea/*
 *.pyc
 Saved/SaveGames/SignIn.sav
 
+# Include Plugin DLLs
+!Plugins/*/Binaries/Win64/*.dll
+!Plugins/RuntimeDataTable/Binaries
+!Plugins/EmailPlugin/Binaries
+
 # Visual Studio 2015 user specific files
 .vs/
 
@@ -84,6 +89,3 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 FloorSystem_Renders/
-
-# Include Plugin DLLs
-!Plugins/*/Binaries/Win64/*.dll

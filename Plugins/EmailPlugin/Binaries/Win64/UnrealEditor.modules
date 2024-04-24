@@ -1,0 +1,8 @@
+{
+	"BuildId": "27405482",
+	"Modules": 
+	{
+		"EmailPlugin": "UnrealEditor-EmailPlugin.dll",
+		"EmailPluginEditor": "UnrealEditor-EmailPluginEditor.dll"
+	}
+}

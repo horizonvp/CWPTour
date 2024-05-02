@@ -20,10 +20,11 @@
 		},
 		{
 			"Name": "ZLCloudPlugin",
-			"Enabled": false,
+			"Enabled": true,
 			"TargetAllowList": [
 				"Editor"
-			]
+			],
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/23da1e28c168496b8739cd2868f81be2"
 		},
 		{
 			"Name": "HVPAppController",

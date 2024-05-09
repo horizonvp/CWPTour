@@ -53,6 +53,11 @@
 			"Name": "EasyFileDialog",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/bcf64fe2e00c48189d8385a9c39b6e61"
+		},
+		{
+			"Name": "EFM",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/27eefe99d0c649968a7a3ad503ce6940"
 		}
 	]
 }

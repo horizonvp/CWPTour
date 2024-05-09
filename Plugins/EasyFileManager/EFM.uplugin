@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.5.2",
+	"FriendlyName": "EFM - Easy File Manager",
+	"Description": "Manage files on every platform, easily.",
+	"Category": "File Management",
+	"CreatedBy": "Simone Campitelli",
+	"CreatedByURL": "simonecampitelli.com",
+	"DocsURL": "https://dawnfallarts.github.io/EFM/",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/27eefe99d0c649968a7a3ad503ce6940",
+	"SupportURL": "mailto:simo2553@gmail.com",
+	"EngineVersion": "5.3.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "EFM",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"PlatformAllowList": [
+				"Win64",
+				"Linux",
+				"Mac"
+			]
+		}
+	]
+}

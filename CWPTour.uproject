@@ -24,9 +24,6 @@
 		{
 			"Name": "ZLCloudPlugin",
 			"Enabled": true,
-			"TargetAllowList": [
-				"Editor"
-			],
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/23da1e28c168496b8739cd2868f81be2"
 		},
 		{
@@ -51,6 +48,11 @@
 			"Name": "RuntimeDataTable",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/4c7c4f8d523f4c90b2e26d23502c526c"
+		},
+		{
+			"Name": "EasyFileDialog",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/bcf64fe2e00c48189d8385a9c39b6e61"
 		}
 	]
 }

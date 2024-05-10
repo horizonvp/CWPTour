@@ -86,3 +86,4 @@ FloorSystem_Renders/
 
 # Include Plugin DLLs
 !Plugins/**/*.dll
+!Plugins/EmailPlugin/Source/EmailPlugin/ThirdParty/lib/Windows/*.lib

@@ -71,7 +71,7 @@
 		},
 		{
 			"Name": "MasterHttpRequest",
-			"Enabled": true
+			"Enabled": false
 		}
 	]
 }

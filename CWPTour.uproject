@@ -58,6 +58,20 @@
 			"Name": "EFM",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/27eefe99d0c649968a7a3ad503ce6940"
+		},
+		{
+			"Name": "HTTPRequestForBlueprints",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4a9830d1cea14a28bae31127f41a210b"
+		},
+		{
+			"Name": "VaRest",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e47be161e7a24e928560290abd5dcc4f"
+		},
+		{
+			"Name": "MasterHttpRequest",
+			"Enabled": true
 		}
 	]
 }
